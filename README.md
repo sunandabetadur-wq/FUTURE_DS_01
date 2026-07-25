@@ -43,26 +43,6 @@ The projects demonstrate practical skills in:
 
 ---
 
-# 📂 Repository Structure
-
-```
-FUTURE_DS_01
-│
-├── Task 1
-│   ├── Dataset
-│   ├── Jupyter Notebook
-│   ├── Charts
-│   └── Report
-│
-├── Task 2
-│
-├── Task 3
-│
-└── README.md
-```
-
----
-
 # ✅ Completed Tasks
 
 | Task | Status |
