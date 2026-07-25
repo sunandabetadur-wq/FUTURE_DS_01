@@ -43,16 +43,6 @@ The projects demonstrate practical skills in:
 
 ---
 
-# ✅ Completed Tasks
-
-| Task | Status |
-|-------|--------|
-| Task 1 | ✅ Completed |
-| Task 2 | ⏳ In Progress |
-| Task 3 | ⏳ Pending |
-
----
-
 # 📈 Task 1 Highlights
 
 ### Sales Performance Analysis
